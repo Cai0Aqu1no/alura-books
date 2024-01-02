@@ -1,7 +1,7 @@
 <h1>Alura Books</h1>
 
 <h2>🔖 Sobre</h2>
-<p>Projeto criado para o desenvolvimento de meus conhecimentos em HTML, CSS e responsividade durante meu curso de mobile first na alura. O projeto é totalmente responsivo com um layout pra cada tipo de dispositivo baseado no método mobile first</p>
+<p>Projeto criado para o desenvolvimento de meus conhecimentos em HTML, CSS e responsividade durante meu curso de mobile first na alura. O projeto é totalmente responsivo com um layout pra cada tipo de dispositivo baseado no método mobile first.</p>
 
 ## 🚀 Tecnologias
 <div>
